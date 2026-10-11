@@ -36,8 +36,8 @@ I contribute to open-source projects and enjoy investigating bugs, understanding
 
 ## 🛠️ Technologies I Work With
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python" alt="HTML, CSS, JavaScript, C++, and Python" />
+<<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go" alt="HTML, CSS, JavaScript, C++, Python, and Go" />
 </p>
 
 ## 🧠 Technical Interests
