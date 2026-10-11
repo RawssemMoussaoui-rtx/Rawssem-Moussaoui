@@ -14,7 +14,7 @@ My main project is **DRAW**, an algorithmic research engine designed to organize
 
 A deterministic research tool focused on structured information processing, relationship analysis, and research-context organization.
 
-- 🧩 **Algorithmic by design:** Explicit rules and deterministic processing.
+- 🧩 **Deterministic by design:** Built around explicit algorithms and rules.
 - 🔎 **Research-focused:** Organizes findings and analyzes relationships between them.
 - ⚙️ **Tool-oriented:** Designed to support external LLM workflows without embedding an LLM in its core.
 
@@ -29,11 +29,11 @@ I contribute to open-source projects, focusing on investigating bugs, understand
 - [Dagu — PR #2809](https://github.com/dagucloud/dagu/pull/2809)
 - [Volcano — PR #6024](https://github.com/volcano-sh/volcano/pull/6024)
 - [Restic — PR #22079](https://github.com/restic/restic/pull/22079)
-- [Moby](https://github.com/moby/moby)
+- [Moby — Docker Engine](https://github.com/moby/moby)
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Languages & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go" alt="HTML, CSS, JavaScript, C++, Python, and Go" />
@@ -45,7 +45,7 @@ I contribute to open-source projects, focusing on investigating bugs, understand
 
 - Algorithm design and deterministic systems
 - Debugging and root-cause analysis
-- Understanding execution paths across codebases
+- Tracing execution paths across complex codebases
 - Correctness, regression prevention, and testing
 - Software architecture and engineering trade-offs
 
@@ -53,17 +53,17 @@ I contribute to open-source projects, focusing on investigating bugs, understand
 
 ## 📊 GitHub Statistics
 
-<p>
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RawssemMoussaoui-rtx&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
-    alt="Primary GitHub statistics"
+    src="https://github-readme-stats-multiuser.vercel.app/api?usernames=RawssemMoussaoui-rtx,rawssemmousaoui&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+    alt="Combined GitHub statistics for both accounts"
   />
 </p>
 
-<p>
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawssemMoussaoui-rtx&layout=compact&hide_border=true&theme=transparent"
-    alt="Most used languages"
+    src="https://github-readme-stats-multiuser.vercel.app/api/top-langs?usernames=RawssemMoussaoui-rtx,rawssemmousaoui&layout=compact&hide_border=true&theme=transparent"
+    alt="Combined most-used languages across both accounts"
   />
 </p>
 
@@ -71,7 +71,6 @@ I contribute to open-source projects, focusing on investigating bugs, understand
 
 ## 📫 Find Me on GitHub
 
-- [RawssemMoussaoui-rtx](https://github.com/RawssemMoussaoui-rtx)
-
-
+- [Primary account — RawssemMoussaoui-rtx](https://github.com/RawssemMoussaoui-rtx)
+- [Second account — rawssemmousaoui](https://github.com/rawssemmousaoui)
 
